@@ -1,0 +1,63 @@
+
+body{
+  background: url(https://i.pinimg.com/564x/38/28/98/382898cf975282cb9798fba3d39a43cc.jpg);
+  font-family: arial;
+}
+main{
+  margin: 0 15%;
+  color: gray;
+}
+h1,h2,h3{
+  font-family: helvetica;
+  margin-top: 1.5em;
+  color: gray;
+}
+h1{
+  font-size: 32px;
+}
+
+}
+table,th,td{
+  border:1px solid black;
+  text-align: center;
+}
+th{
+  color: red;
+}
+figcaption{
+  font-style: italic;
+  text-align:center;
+}
+figure{
+  float: right;
+  margin: 0 10px;
+  padding: 0 20px 0 20px;
+}
+table{
+  margin: 0 auto 10px;
+  border: 1px solid #161616;
+  border-collapse: collapse;
+}
+em,i {
+  color: red;
+}
+b {
+  color: blue;
+}
+blockquote{
+  border-left: 5px solid green;
+  padding-left: 10px;
+  border-radius: 3px;
+}
+.nation table{
+  width: 400px;
+}
+.list{
+  list-style: none;
+}
+.list li{
+  padding: 2px 5px;
+  border-left: 7px solid blue;
+  border-radius: 7px;
+  margin: 5px;
+}
