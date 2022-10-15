@@ -10,7 +10,7 @@ main{
 h1,h2,h3{
   font-family: helvetica;
   margin-top: 1.5em;
-  color: gray;
+  color: #F5F5F5;
 }
 h1{
   font-size: 32px;
@@ -18,11 +18,11 @@ h1{
 
 }
 table,th,td{
-  border:1px solid black;
+  border: 2px solid #DCDCDC;
   text-align: center;
 }
 th{
-  color: red;
+  color: #FFA07A;
 }
 figcaption{
   font-style: italic;
@@ -35,17 +35,17 @@ figure{
 }
 table{
   margin: 0 auto 10px;
-  border: 1px solid #161616;
+  border: 1px solid #DCDCDC;
   border-collapse: collapse;
 }
 em,i {
-  color: red;
+  color: #48D1CC;
 }
 b {
-  color: blue;
+  color: #ADD8E6;
 }
 blockquote{
-  border-left: 5px solid green;
+  border-left: 5px solid #48D1CC;
   padding-left: 10px;
   border-radius: 3px;
 }
@@ -57,7 +57,7 @@ blockquote{
 }
 .list li{
   padding: 2px 5px;
-  border-left: 7px solid blue;
+  border-left: 7px solid #D8BFD8;
   border-radius: 7px;
   margin: 5px;
 }
